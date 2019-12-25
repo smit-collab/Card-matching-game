@@ -4,7 +4,7 @@
 
 ![](video/game.gif)
 
-Udacity Front-End Web Developer Nanodegree Project : Memory Game
+Udacity Front-End Web Developer Nanodegree Project : Card matching game
 
 
 ## Instructions
